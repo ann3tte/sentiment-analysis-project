@@ -1,4 +1,6 @@
-# GOOGLE COLAB WAS USED
+# GOOGLE COLAB WAS USED, COPY AND PASTE THE FOLLWOING INTO A CELL
+
+
 # To install required libraries, uncomment the line below:
 # !pip install tensorflow nltk scikit-learn --quiet
 
